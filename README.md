@@ -1,11 +1,11 @@
-# hypermedian-manifesto
+# Hypermedian Manifesto
 > "Make it Hypermedian!"
 
 The Web Developement (_Sites_ & especially _Applications_) in both industry & the academy need to return to their rich roots of Hypermedia in web applications & websites, while still preserving the hard-fought-for gains in user-interactivity that so-called "Modern" (transl.: "Fashionable") Web Apps (_esp. Single-Page Application Frameworks_), thus creating a category that is both old & new: "_**Hypermedian**_" (_also called by some "Hypermedia Driven Apps," or HDAs_).
 
 ## Table of Contents:
 
-## Why?  Why Hypermedian?
+## Why? Why Hypermedian?
 > Because our Web Applications are getting too complex and slow, by fighting the medium they target (the browser, primarily), because the browsers do not implement Hypermedia in a fully, truly Hypermedian way, and thus Developers usually ignore the Intrinsically Hypermedia-oriented natures of browsers, to the detriment of User Experience, of the inordinately high number of developers needed to develop a Web Application, & of Developer's own productivity!  Inexorably, the high number of developers and large number and arbitrary division of labor into teams runs up against [Conway's Law](https://martinfowler.com/bliki/ConwaysLaw.html), which many developers, architects, managers, and executives have either forgotten or never known in the first place.  Conway's Law is:
 > "Any organization that designs a system (defined broadly) will produce a design whose structure is a copy of the organization's communication structure."
 
